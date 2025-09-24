@@ -10,8 +10,6 @@
 print("Integer example 1:", 10)      # خروجی: Integer example 1: 10 (ترجمه: مثال عدد صحیح ۱)
 print("Integer example 2:", -5)     # # خروجی: Integer example 2: -5 (ترجمه: مثال عدد صحیح ۲)
 
-print("-" * 75)
-
 # Float examples (مثال‌های عدد اعشاری)
 print("Float example 1:", 3.14)      # خروجی: Float example 1: 3.14 (ترجمه: مثال عدد اعشاری ۱)
 print("Float example 2:", 4E2)       # خروجی: Float example 2: 400.0 (ترجمه: مثال عدد اعشاری ۲ - 4 ضربدر 10 به توان 2)
